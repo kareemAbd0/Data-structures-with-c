@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/karee/Desktop/coding/C/Data structutres/Linked Stack/linked_stack.h
+
+C:/Users/karee/Desktop/coding/C/Data structutres/Linked Stack/main.c
+stdio.h
+-
+linked_stack.h
+C:/Users/karee/Desktop/coding/C/Data structutres/Linked Stack/linked_stack.h
+

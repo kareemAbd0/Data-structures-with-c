@@ -1,0 +1,3 @@
+C:/Users/karee/Desktop/coding/C/Data structutres/Linked Stack/cmake-build-debug/CMakeFiles/Linked_Stack.dir
+C:/Users/karee/Desktop/coding/C/Data structutres/Linked Stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/karee/Desktop/coding/C/Data structutres/Linked Stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
