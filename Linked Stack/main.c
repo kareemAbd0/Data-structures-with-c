@@ -9,7 +9,6 @@ void Display(StackEntry e)
 
 
 
-
 int main() {
 StackEntry e = 5;
 Stack s;

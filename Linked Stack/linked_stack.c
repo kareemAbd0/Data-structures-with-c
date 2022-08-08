@@ -13,7 +13,7 @@ void CreatStack(Stack *s)
 
 void Push(StackEntry e,Stack * s)
 {
-    StackNode *p =(StackNode*) malloc(sizeof (StackNode));
+    StackNode *p =(StackNode*) malloc(sizeof(StackNode));
     p->entry = e;
     p->next = s->top;
     s->top = p;
