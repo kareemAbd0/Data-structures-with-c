@@ -44,16 +44,7 @@ if(StackEmpty(&s))
 {
     printf("the stack is empty");
 }
-
-
 //printf("%d", StackSize(&s));
-
-
-
-
-
-
-
 
 
 }

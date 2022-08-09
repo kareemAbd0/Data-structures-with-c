@@ -69,6 +69,7 @@ void ClearStack(Stack * s)
         free(p);
         s->top = p2 ;
     }
+    s->size = 0;
 
 }
 
