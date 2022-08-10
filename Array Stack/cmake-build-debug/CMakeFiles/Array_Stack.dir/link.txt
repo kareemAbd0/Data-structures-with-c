@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Array_Stack.dir/objects.a
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Array_Stack.dir/objects.a @CMakeFiles\Array_Stack.dir\objects1.rsp
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Array_Stack.dir/objects.a -Wl,--no-whole-archive -o Array_Stack.exe -Wl,--out-implib,libArray_Stack.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Array_Stack.dir\linklibs.rsp
+/usr/bin/cc -g CMakeFiles/Array_Stack.dir/main.c.o CMakeFiles/Array_Stack.dir/Stack.c.o -o Array_Stack 

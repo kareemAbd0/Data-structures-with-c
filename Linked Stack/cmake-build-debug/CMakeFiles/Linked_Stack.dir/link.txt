@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Linked_Stack.dir/objects.a
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Linked_Stack.dir/objects.a @CMakeFiles\Linked_Stack.dir\objects1.rsp
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Linked_Stack.dir/objects.a -Wl,--no-whole-archive -o Linked_Stack.exe -Wl,--out-implib,libLinked_Stack.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Linked_Stack.dir\linklibs.rsp
+/usr/bin/cc -g CMakeFiles/Linked_Stack.dir/main.c.o CMakeFiles/Linked_Stack.dir/linked_stack.c.o -o Linked_Stack 
