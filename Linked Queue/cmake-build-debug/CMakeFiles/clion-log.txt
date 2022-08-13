@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/usr/bin/cc -DCMAKE_CXX_COMPILER=/usr/bin/c++ -G "CodeBlocks - Unix Makefiles" -S "/run/media/kareem/Windows/Users/karee/Desktop/coding/C/Data structutres/Linked Queue" -B "/run/media/kareem/Windows/Users/karee/Desktop/coding/C/Data structutres/Linked Queue/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /run/media/kareem/Windows/Users/karee/Desktop/coding/C/Data structutres/Linked Queue/cmake-build-debug
