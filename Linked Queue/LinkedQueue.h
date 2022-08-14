@@ -35,9 +35,7 @@ int QueueEmpty(Queue *);
 int QueueFull(Queue *);
 int QueueSize(Queue *);
 
-
 void ClearQueue(Queue * );
-
 void TraverseQueue(Queue *, void (*) (QueueEntry));
 
 
