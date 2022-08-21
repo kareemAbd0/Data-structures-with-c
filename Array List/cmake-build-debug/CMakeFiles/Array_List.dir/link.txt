@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Array_List.dir/main.c.o -o Array_List 
