@@ -1,1 +1,1 @@
-/usr/bin/cc -g CMakeFiles/Array_List.dir/main.c.o -o Array_List 
+/usr/bin/cc -g CMakeFiles/Array_List.dir/main.c.o CMakeFiles/Array_List.dir/array_list.c.o -o Array_List 

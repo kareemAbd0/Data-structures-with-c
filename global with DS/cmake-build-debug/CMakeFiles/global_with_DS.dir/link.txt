@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/global_with_DS.dir/main.c.o CMakeFiles/global_with_DS.dir/Stack.c.o CMakeFiles/global_with_DS.dir/Queue.c.o -o global_with_DS 

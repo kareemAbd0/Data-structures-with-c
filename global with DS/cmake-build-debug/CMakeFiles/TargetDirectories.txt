@@ -1,0 +1,3 @@
+/run/media/kareem/Windows/Users/karee/Desktop/coding/C/Data structutres/global with DS/cmake-build-debug/CMakeFiles/global_with_DS.dir
+/run/media/kareem/Windows/Users/karee/Desktop/coding/C/Data structutres/global with DS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/run/media/kareem/Windows/Users/karee/Desktop/coding/C/Data structutres/global with DS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "Array_List"
   "Array_List.pdb"
+  "CMakeFiles/Array_List.dir/array_list.c.o"
+  "CMakeFiles/Array_List.dir/array_list.c.o.d"
   "CMakeFiles/Array_List.dir/main.c.o"
   "CMakeFiles/Array_List.dir/main.c.o.d"
 )

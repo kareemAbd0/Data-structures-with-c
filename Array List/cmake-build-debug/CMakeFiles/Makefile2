@@ -81,12 +81,12 @@ clean: CMakeFiles/Array_List.dir/clean
 CMakeFiles/Array_List.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Array_List.dir/build.make CMakeFiles/Array_List.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Array_List.dir/build.make CMakeFiles/Array_List.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/run/media/kareem/Windows/Users/karee/Desktop/coding/C/Data structutres/Array List/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target Array_List"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/run/media/kareem/Windows/Users/karee/Desktop/coding/C/Data structutres/Array List/cmake-build-debug/CMakeFiles" --progress-num=1,2,3 "Built target Array_List"
 .PHONY : CMakeFiles/Array_List.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Array_List.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/run/media/kareem/Windows/Users/karee/Desktop/coding/C/Data structutres/Array List/cmake-build-debug/CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/run/media/kareem/Windows/Users/karee/Desktop/coding/C/Data structutres/Array List/cmake-build-debug/CMakeFiles" 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Array_List.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "/run/media/kareem/Windows/Users/karee/Desktop/coding/C/Data structutres/Array List/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/Array_List.dir/rule

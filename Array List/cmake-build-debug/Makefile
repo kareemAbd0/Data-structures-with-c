@@ -129,6 +129,30 @@ Array_List/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Array_List.dir/build.make CMakeFiles/Array_List.dir/build
 .PHONY : Array_List/fast
 
+array_list.o: array_list.c.o
+.PHONY : array_list.o
+
+# target to build an object file
+array_list.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Array_List.dir/build.make CMakeFiles/Array_List.dir/array_list.c.o
+.PHONY : array_list.c.o
+
+array_list.i: array_list.c.i
+.PHONY : array_list.i
+
+# target to preprocess a source file
+array_list.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Array_List.dir/build.make CMakeFiles/Array_List.dir/array_list.c.i
+.PHONY : array_list.c.i
+
+array_list.s: array_list.c.s
+.PHONY : array_list.s
+
+# target to generate assembly for a file
+array_list.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Array_List.dir/build.make CMakeFiles/Array_List.dir/array_list.c.s
+.PHONY : array_list.c.s
+
 main.o: main.c.o
 .PHONY : main.o
 
@@ -162,6 +186,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Array_List"
+	@echo "... array_list.o"
+	@echo "... array_list.i"
+	@echo "... array_list.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

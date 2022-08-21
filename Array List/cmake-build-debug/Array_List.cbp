@@ -76,6 +76,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/run/media/kareem/Windows/Users/karee/Desktop/coding/C/Data structutres/Array List/array list.c">
+			<Option target="Array_List"/>
+		</Unit>
+		<Unit filename="/run/media/kareem/Windows/Users/karee/Desktop/coding/C/Data structutres/Array List/array list.h">
+			<Option target="Array_List"/>
+		</Unit>
 		<Unit filename="/run/media/kareem/Windows/Users/karee/Desktop/coding/C/Data structutres/Array List/main.c">
 			<Option target="Array_List"/>
 		</Unit>
