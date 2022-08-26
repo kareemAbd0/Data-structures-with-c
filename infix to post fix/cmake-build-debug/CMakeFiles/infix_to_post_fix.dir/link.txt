@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/infix_to_post_fix.dir/main.c.o CMakeFiles/infix_to_post_fix.dir/linked_stack.c.o -o infix_to_post_fix 
